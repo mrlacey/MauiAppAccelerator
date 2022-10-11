@@ -1,1 +1,3 @@
-# MauiAppAccelerator
+# MAUI App Accelerator
+
+Accelerate the creation of new .NET MAUI apps using a wizard-based UI.

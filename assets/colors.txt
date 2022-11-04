@@ -1,0 +1,3 @@
+light purple = 100, 66, 216
+medium purple = 58, 33, 144
+dark purple = 41, 27, 86

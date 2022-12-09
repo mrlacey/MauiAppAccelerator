@@ -2,6 +2,10 @@
 
 The following versions have been released. The most recent is shown first/
 
+## 1.1.1 (Dec 2022)
+
+- Enable installing on VS for ARM64
+
 ## 1.1 (Nov 2022)
 
 - Adds `C# Markup` as a supported `Coding Style`, with all existing pages and features supported.

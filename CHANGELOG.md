@@ -1,6 +1,18 @@
 # ChangeLog
 
-The following versions have been released. The most recent is shown first/
+The following versions have been released. The most recent is shown first.
+
+# 1.2 (Jan 2023)
+
+- Add new Navigation Style (1): None (no shell)
+- Add new Pages (4): Map, NavigationPage, TabbedPage, & FlyoutPage
+- Add new Features (7): FontAwesome, sqlite-net-pcl, AppCenter, Sentry.io, InAppBilling, StoreReview, Audio
+- Generated files now consistently use Tabs for indentation.
+- Use newest versions of CommunityToolkit.MVVM, CommunityToolkit.Maui, & CommunityToolkit.Maui.Markup
+- Support OS-level Text Sizing in the wizard (Accessibility improvement.)
+- Assorted bug fixes
+- Add images for new Sponsors--thank you
+- Fix the display of sponsor images as the wizard is resized
 
 ## 1.1.1 (Dec 2022)
 

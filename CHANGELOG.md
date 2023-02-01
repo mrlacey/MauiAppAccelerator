@@ -2,6 +2,10 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.2.1 (Feb 2023)
+
+- Fix for adding a Map Page with some combinations of other options.
+
 # 1.2 (Jan 2023)
 
 - Add new Navigation Style (1): None (no shell)

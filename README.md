@@ -7,7 +7,7 @@
 ![logo](./assets/logo-small.png)
 
 > **Note**
-> Currently in preview. More functionality is coming. Feedback wanted.
+> More functionality is coming. Feedback wanted.
 
 ## 'File > New Project' made better
 

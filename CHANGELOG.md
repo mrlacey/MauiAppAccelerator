@@ -2,6 +2,10 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.2.4 (May 2023)
+
+- Update NuGet packages (in generated apps) to latest supported versions.
+
 # 1.2.2 (Feb 2023)
 
 - Fix for creating apps in a directory where the path contains a dollar sign.

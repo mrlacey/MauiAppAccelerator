@@ -2,6 +2,10 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.3.1 (May 2023)
+
+- Fix typo in the BenchmarkDotNet description.
+
 # 1.3 (May 2023)
 
 - Add new Pages (1): MediaElement

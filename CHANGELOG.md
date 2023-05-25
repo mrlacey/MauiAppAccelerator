@@ -2,6 +2,13 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.3 (May 2023)
+
+- Add new Pages (1): MediaElement
+- Add new Features (6): BenchmarkDotNet, SimpleToolkit, AlohaKit, Uranium UI, EFCore.Sqlite, & Akka.Hosting.Maui
+- Enable the creation of projects at the drive root or in protected directories.
+- Add images for new Sponsors--thank you.
+
 # 1.2.4 (May 2023)
 
 - Update NuGet packages (in generated apps) to latest supported versions.
@@ -22,7 +29,7 @@ The following versions have been released. The most recent is shown first.
 
 - Add new Navigation Style (1): None (no shell)
 - Add new Pages (4): Map, NavigationPage, TabbedPage, & FlyoutPage
-- Add new Features (7): FontAwesome, sqlite-net-pcl, AppCenter, Sentry.io, InAppBilling, StoreReview, Audio
+- Add new Features (7): FontAwesome, sqlite-net-pcl, AppCenter, Sentry.io, InAppBilling, StoreReview, & Audio
 - Generated files now consistently use Tabs for indentation.
 - Use newest versions of CommunityToolkit.MVVM, CommunityToolkit.Maui, & CommunityToolkit.Maui.Markup
 - Support OS-level Text Sizing in the wizard (Accessibility improvement.)

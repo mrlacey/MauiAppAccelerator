@@ -1,9 +1,10 @@
 # MAUI App Accelerator
 
-![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=5F2E96)
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/MattLaceyLtd.MauiAppAccelerator)
-![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/MattLaceyLtd.MauiAppAccelerator)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/mrlacey)
+[![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=5F2E96)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/MattLaceyLtd.MauiAppAccelerator)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/MattLaceyLtd.MauiAppAccelerator)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator&ssr=false#review-details)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/mrlacey)](https://github.com/sponsors/mrlacey)
 
 [A Visual Studio extension](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator) to accelerate the creation of new .NET MAUI apps using a wizard-based UI.
 

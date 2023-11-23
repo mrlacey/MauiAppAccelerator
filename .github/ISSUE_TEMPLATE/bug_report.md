@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Versions (please complete the following information):**
  - OS: 
 - Viosual Studio version [e.g.17.4]:
- - Extension Version [e.g. 1.0]:
+ - Extension Version [e.g. 1.0 -- it's in the bottom-righthand corner of the wizard]:
 
 **Additional context**
 Add any other context about the problem here.

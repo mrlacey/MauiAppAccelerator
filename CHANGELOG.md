@@ -2,6 +2,18 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.3.3 (Nov 2023)
+
+- Fix a syntax issue in generated code.
+
+# 1.3.2 (Sept 2023)
+
+- Ensure compatibility with latest VS Preview release.
+- Add new Pages (1): Lottie (Example)
+- Update dependencies in generated apps.
+- Code improvements in the generated code.
+- Add images for new Sponsors--thank you.
+
 # 1.3.1 (May 2023)
 
 - Fix typo in the BenchmarkDotNet description.

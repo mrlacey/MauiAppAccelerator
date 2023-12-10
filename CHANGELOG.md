@@ -2,6 +2,17 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.4 (Dec 2023)
+
+- Added .net8 support.
+- Dropped .net6 support.
+- All options for pages and features now available for all supported versions of .net.
+- Updated all NuGet package version in generated code to the latest versions.
+- Fix issue with a maps page in some configurations.
+- Updated some icons.
+- Assorted bug fixes.
+- Add images for new Sponsors--Thank you!
+
 # 1.3.3 (Nov 2023)
 
 - Fix a syntax issue in generated code.

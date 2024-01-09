@@ -29,7 +29,7 @@ Then you'll get a new wizard to help you create the app you want.
 
 Which version of .NET do you wish to use?
 
-![MAUI App Accelerator showing the option to choose the verison of .NET to use](./assets/screenshots/step-1.png)
+![MAUI App Accelerator showing the option to choose the version of .NET to use](./assets/screenshots/step-1.png)
 
 How do you want to write your code?
 

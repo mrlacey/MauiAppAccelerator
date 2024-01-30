@@ -2,6 +2,11 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.4.2 (Jan 2024)
+
+- Updated NuGet versions used in generated projects.
+- Simplified generated code in the WebView page that uses the MVVM Toolkit.
+
 # 1.4.1 (Jan 2024)
 
 - Added new features (2): PageResolver, & Xceed.

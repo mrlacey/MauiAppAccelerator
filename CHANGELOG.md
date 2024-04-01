@@ -2,6 +2,15 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.4.3 (April 2024)
+
+- The minimum supported Visual Studio version has been updated to 17.8
+- Updated NuGet versions used in generated projects.
+- Removed nullability warnings in generated code.
+- Removed other warnings in generated code
+- Now specify MAUI Version in the project file (v8.0.14)
+- Add images for new Sponsors--thank you!
+
 # 1.4.2 (Jan 2024)
 
 - Updated NuGet versions used in generated projects.

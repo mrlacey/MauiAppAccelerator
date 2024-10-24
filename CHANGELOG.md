@@ -2,6 +2,19 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.6  (October 2024)
+
+- Added 'XAML-C debugging' option.
+- Added 'Nightly Build' option.
+- Added 'Material Icons' Font.
+- Added Page with Menu.
+- Added Example page using Material Icons font.
+- Added Example page using FontAwesome fonts.
+- Removed 'App Center' option.
+- Added prompt for reviews with the wizard.
+- Updated NuGet versions used in generated projects.
+- Marked .NET 7 as out of support
+
 # 1.5 (April 2024)
 
 - Include an iOS Privacy Manifest in the generated app.

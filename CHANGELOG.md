@@ -2,6 +2,13 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.6.1  (November 2024)
+
+- Added Windows support to the Maps page.
+- Add images for new Sponsor--thank you!
+- Improved formatting of generated code.
+- Update some internal dependencies to address potential security vulnerabilities.
+
 # 1.6  (October 2024)
 
 - Added 'XAML-C debugging' option.

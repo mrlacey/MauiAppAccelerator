@@ -2,6 +2,20 @@
 
 The following versions have been released. The most recent is shown first.
 
+# 1.7  (November 2024)
+
+- Removed .net7 support.
+- Added support for .net 9.
+- Minimum supported VS version is now 17.12.
+- All additions will be .net9 only.
+- .net8 templates will only get bug fixes and security patches.
+- Enable MauiStrictXamlCompilation by default.
+- Added HotReload Handler for C#Markup.
+- Added example page using a Menu.
+- Added FunColors package as a feature option.
+- Improved internal testing to make future releases faster and easier. :)
+- Add images for new Sponsor--thank you!
+
 # 1.6.1  (November 2024)
 
 - Added Windows support to the Maps page.

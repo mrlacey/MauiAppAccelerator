@@ -5,6 +5,7 @@ The following versions have been released. The most recent is shown first.
 ## 1.7.1  (December 2024)
 
 - Fix issues related to the List+Details page.
+- Fix issue with generated Map page.
 - Address security vulnerabilities in dependencies.
 
 ## 1.7  (November 2024)

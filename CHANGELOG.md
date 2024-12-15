@@ -2,6 +2,13 @@
 
 The following versions have been released. The most recent is shown first.
 
+## 1.7.2  (Dec 2024)
+
+- Add Syncfusion toolkit as a Library Feature.
+- Fixed an issue with the usage analytics.
+- Update icon.
+- Updated NuGet versions used in generated projects.
+
 ## 1.7.1  (December 2024)
 
 - Fix issues related to the List+Details page.

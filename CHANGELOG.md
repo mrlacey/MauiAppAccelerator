@@ -2,6 +2,10 @@
 
 The following versions have been released. The most recent is shown first.
 
+## 1.7.3  (Dec 2024)
+
+- Updated NuGet versions of CommunityToolkit.Maui.* packages used in generated projects.
+
 ## 1.7.2  (Dec 2024)
 
 - Add Syncfusion toolkit as a Library Feature.

@@ -2,6 +2,11 @@
 
 The following versions have been released. The most recent is shown first.
 
+## 1.7.4  (Jan 2025)
+
+- Fixed warnings created by RelativeSource bindings in the MVVM Toolkit version of the ListDetails page.
+- Updated DotNet version descriptions to include links to the support policy.
+
 ## 1.7.3  (Dec 2024)
 
 - Updated NuGet versions of CommunityToolkit.Maui.* packages used in generated projects.

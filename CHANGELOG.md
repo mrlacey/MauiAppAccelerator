@@ -2,6 +2,20 @@
 
 The following versions have been released. The most recent is shown first.
 
+## 1.8  (Mar 2025)
+
+- Updated generated apps to use the latest MauiVersion (9.0.50--SR5)
+- Added DebugRainbows package as a feature option.
+- Added Maui.Plugin.Accessibility package as a feature option.
+- Added Maui.Plugin.Calendar package as a feature option.
+- Added Maui.Plugin.CalendarStore package as a feature option.
+- Added TemplateMAUI controls package as a feature option.
+- Added MSTest as a testing option.
+- All generated UI now passes A11Y tests.
+- Removed unnecessary page registrations.
+- Updated NuGet versions used in generated projects.
+- Updated Sponsor images--Thank you to all sponsors!
+
 ## 1.7.4  (Jan 2025)
 
 - Fixed warnings created by RelativeSource bindings in the MVVM Toolkit version of the ListDetails page.
